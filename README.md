@@ -6,9 +6,36 @@ This project replicates a modern educational website landing page and demonstrat
 ---
 
 ## 🚀 Live Demo
- https://deepanshudevsinghal-debug.github.io/WsCube-Tech-Landing-Page/
+  https://deepanshudevsinghal.github.io/WsCube-Tech-Landing-Page/
+  
+----
 
----
+ ## 🚀 Github Repository
+
+ Project Source Code :
+https://github.com/deepanshudevsinghal/WsCube-Tech-Landing-Page.git
+
+----
+
+## 🚀 Screenshots
+
+## 📸 Registration Form
+
+![Register](IMAGES/WsCube-Tech-Screenshot(1).png)
+
+## 📸 Key Highlights
+
+![Highlight](IMAGES/WsCube-Tech-Screenshot(2).png)
+
+## 📸 Curriculum
+
+![curriculum](IMAGES/WsCube-Tech-Screenshot(3).png)
+
+## 📸 FAQ
+
+![FAQ](IMAGES/WsCube-Tech-Screenshot(4).png)
+
+----
 
 ## 📌 Project Overview
 
